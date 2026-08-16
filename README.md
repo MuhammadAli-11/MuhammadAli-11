@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuhammadAli-11
 - 👀 I’m interested in coding, gaming and football
-- 🌱 I’m currently learning game design and developement, specialized in Gen AI games
+- 🌱 I’m currently learning computer vision, specialized in Gen AI games
 - 💞️ I’m looking to collaborate on Gaming project in the testing and developement
 - 📫 How to reach me "Connect with on LinkedIn (https://www.linkedin.com/in/muhammad-ali-shah047/)
 
